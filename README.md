@@ -7,7 +7,7 @@ Java脚手架;集成SpringBoot、SpringCloud、源码运行Nacos、Spring Gatewa
 
 ### com-fang-demo-nacos
 
-源码运行Nacos，方便开发
+源码运行Nacos，方便开发。命令行输入:-Dserver.servlet.contextPath=/nacos
 
 ### com-fang-demo-gateway
 
@@ -24,3 +24,4 @@ Java脚手架;集成SpringBoot、SpringCloud、源码运行Nacos、Spring Gatewa
 ### com-fang-demo-domin
 
 实体类存放位置，PO、DTO and VO 等
+
